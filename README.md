@@ -15,15 +15,6 @@
 ### **S3 Static Website Hosting + CloudFront + Route 53**
 ### **Hosting apalabajar.shop**
 ### **Hosting [denmarklenses.com](https://denmarklenses.com/)**
-# 🏆 Achievements:
-- **Winner** of [Hackathon Name](https://link-to-hackathon.com) - _Project XYZ_
-- **Top Contributor** in [Open Source Project](https://link-to-project.com)
-- [Certification Name](https://link-to-certification.com) - _Certification Authority_
-
-# 📚 Certifications:
-- [AWS Certified Solutions Architect](https://aws.amazon.com/certification/)
-- [Google Cloud Certified](https://cloud.google.com/certification)
-- [Jenkins Engineer](https://www.jenkins.io/certification/)
 
 # 🚀 Projects:
 - **[Project Name](https://link-to-project.com):** Brief description of the project.
@@ -32,10 +23,6 @@
 # 🌱 Currently Learning:
 - **Terraform:** Infrastructure as Code
 - **Go:** Building microservices
-
-# 📖 Blog Posts:
-- [Understanding Kubernetes](https://link-to-blog.com)
-- 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahigore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -2,6 +2,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshgore7888)
 
 # 💻 Tech Stack:
+# 💻 Tech Stack
+
+### 🛠️ AWS Services:
+| Service Category  | Service Name  | Badge  |
+|------------------|---------------|--------|
+| **Compute**      | EC2, Lambda   | ![EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-lambda&logoColor=white) |
+| **Storage**      | S3, EBS       | ![S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) ![EBS](https://img.shields.io/badge/Amazon%20EBS-%23FF9900.svg?style=for-the-badge&logo=amazon-ebs&logoColor=white) |
+| **Database**     | RDS, DynamoDB | ![RDS](https://img.shields.io/badge/Amazon%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23FF9900.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) |
+| **Networking**   | VPC, Route 53 | ![VPC](https://img.shields.io/badge/Amazon%20VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-vpc&logoColor=white) ![Route53](https://img.shields.io/badge/Amazon%20Route%2053-%23FF9900.svg?style=for-the-badge&logo=amazon-route53&logoColor=white) |
+| **DevOps & Monitoring** | CloudWatch, CodePipeline | ![CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white) ![CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazon-codepipeline&logoColor=white) |
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - **Compute:** ![EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - **Storage:** ![S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EBS](https://img.shields.io/badge/Amazon%20EBS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -31,3 +42,4 @@
 
 # 📖 Blog Posts:
 - [Understanding Kubernetes](https://link-to-blog.com)
+- 

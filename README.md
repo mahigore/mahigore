@@ -4,6 +4,48 @@
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 🔎 Projects
+
+---
+
+### **AWS 3-Tier Architecture**
+- **Tech Stack**:
+  - VPC
+  - RDS & Replica
+  - EC2, AMI, LT, ALB, TG, ASG
+  - AWS Backup
+  - CloudFront
+  - WAF
+  - Route53
+  - ACM
+
+### **Multi-Origin Architecture [CloudFront]**
+
+### **AWS with DevOps Project**
+- **Build a Serverless DevOps CI/CD Pipeline on AWS** using:
+  - Elastic Container Service
+  - Elastic Container Registry
+  - Fargate
+  - CodeBuild, CodeDeploy, CodePipeline
+  - EC2, ALB, TG
+  - GitHub, Docker
+  - Route53, ACM, Secrets Manager
+  - VPC
+
+### **S3 Static Website Hosting + CloudFront + Route 53**
+
+### **Arohi Software Projects**
+- **Hosting apalabajar.shop**
+  - **Tech Stack**:
+    - Atlas MongoDB, EC2, GitHub, Docker, Route53, Hostinger
+
+### **Denmark Lenses Project**
+- **Hosting [denmarklenses.com](https://denmarklenses.com/)**
+  - **P1 Tech Stack**:
+    - S3 (static website hosting), Route53, GoDaddy Domain
+  - **P2 Tech Stack**:
+    - EC2 Instance, Apache Server, ALB, TG, Route53, Certificate Manager, GoDaddy Domain
+
 # 🏆 Achievements:
 - **Winner** of [Hackathon Name](https://link-to-hackathon.com) - _Project XYZ_
 - **Top Contributor** in [Open Source Project](https://link-to-project.com)

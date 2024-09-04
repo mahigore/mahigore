@@ -9,43 +9,12 @@
 ---
 
 ### **AWS 3-Tier Architecture**
-- **Tech Stack**:
-  - VPC
-  - RDS & Replica
-  - EC2, AMI, LT, ALB, TG, ASG
-  - AWS Backup
-  - CloudFront
-  - WAF
-  - Route53
-  - ACM
-
 ### **Multi-Origin Architecture [CloudFront]**
 
 ### **AWS with DevOps Project**
-- **Build a Serverless DevOps CI/CD Pipeline on AWS** using:
-  - Elastic Container Service
-  - Elastic Container Registry
-  - Fargate
-  - CodeBuild, CodeDeploy, CodePipeline
-  - EC2, ALB, TG
-  - GitHub, Docker
-  - Route53, ACM, Secrets Manager
-  - VPC
-
 ### **S3 Static Website Hosting + CloudFront + Route 53**
-
-### **Arohi Software Projects**
-- **Hosting apalabajar.shop**
-  - **Tech Stack**:
-    - Atlas MongoDB, EC2, GitHub, Docker, Route53, Hostinger
-
-### **Denmark Lenses Project**
-- **Hosting [denmarklenses.com](https://denmarklenses.com/)**
-  - **P1 Tech Stack**:
-    - S3 (static website hosting), Route53, GoDaddy Domain
-  - **P2 Tech Stack**:
-    - EC2 Instance, Apache Server, ALB, TG, Route53, Certificate Manager, GoDaddy Domain
-
+### **Hosting apalabajar.shop**
+### **Hosting [denmarklenses.com](https://denmarklenses.com/)**
 # 🏆 Achievements:
 - **Winner** of [Hackathon Name](https://link-to-hackathon.com) - _Project XYZ_
 - **Top Contributor** in [Open Source Project](https://link-to-project.com)
